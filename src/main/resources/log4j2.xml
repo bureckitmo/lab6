@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+
+    <Properties>
+        <Property name="LOG_DIR">./logs/</Property>
+        <Property name="ARCHIVE">${LOG_DIR}/archive</Property>
+        <Property name="FILE_PATTERN">%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %c{10}:%L - %msg%n</Property>
+        <Property name="CONSOLE_PATTERN">%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %c{0}:%L - %msg%n</Property>
+    </Properties>
+
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="${CONSOLE_PATTERN}"/>
+        </Console>
+        <RollingFile name="RootLogger"
+                     fileName="${LOG_DIR}/capture_all.log"
+                     filePattern="${ARCHIVE}/%d{yyyy-MM-dd-hh-mm}_CaptureAll.gz">
+            <PatternLayout pattern="${FILE_PATTERN}"/>
+            <SizeBasedTriggeringPolicy size="1 MB"/>
+        </RollingFile>
+    </Appenders>
+
+    <Loggers>
+        <Root level="info" additivity="true">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="RootLogger"/>
+        </Root>
+    </Loggers>
+
+</Configuration>

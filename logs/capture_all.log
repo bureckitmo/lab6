@@ -1,0 +1,78 @@
+2020-10-05 17:32:09.442 [main] INFO  network.Server:105 - Ready to receive...
+2020-10-05 17:32:53.947 [main] INFO  network.Server:95 - Server started. Listening port 5453
+2020-10-05 17:32:53.949 [main] INFO  network.Server:105 - Ready to receive...
+2020-10-05 17:34:36.306 [main] INFO  network.Server:171 - User connected Евгени�ий Але��ксеевич: /127.0.0.1:48814
+2020-10-05 17:35:21.174 [main] ERROR network.Client:156 - Command not found
+2020-10-05 17:35:40.155 [main] INFO  network.Server:190 - commands.HelpCommand@5e0826e7
+2020-10-05 17:35:40.155 [main] INFO  network.Server:191 - /127.0.0.1:48814
+2020-10-05 17:37:49.630 [main] INFO  network.Server:190 - commands.HelpCommand@6aba2b86
+2020-10-05 17:37:49.630 [main] INFO  network.Server:191 - /127.0.0.1:48814
+2020-10-05 17:37:59.588 [main] INFO  network.Server:190 - commands.ShowCommand@5af3afd9
+2020-10-05 17:37:59.589 [main] INFO  network.Server:191 - /127.0.0.1:48814
+2020-10-06 22:38:16.556 [main] INFO  network.Server:95 - Server started. Listening port 5454
+2020-10-06 22:38:16.559 [main] INFO  network.Server:105 - Ready to receive...
+2020-10-06 22:38:37.930 [main] INFO  network.Server:171 - User connected Дмитрий : /127.0.0.1:63251
+2020-10-06 22:38:56.493 [main] ERROR network.Client:156 - Command not found
+2020-10-06 22:38:59.952 [main] INFO  network.Server:179 - User disconnected Дмитрий : /127.0.0.1:63251
+2020-10-06 22:39:46.296 [main] ERROR network.Client:213 - Receive timed out
+2020-10-06 22:39:59.167 [main] ERROR network.Client:213 - Receive timed out
+2020-10-06 22:40:21.513 [main] INFO  network.Server:171 - User connected Дмитрий : /127.0.0.1:63749
+2020-10-06 22:40:35.858 [main] ERROR network.Client:156 - Command not found
+2020-10-06 22:40:42.398 [main] INFO  network.Server:190 - commands.ShowCommand@333291e3
+2020-10-06 22:40:42.399 [main] INFO  network.Server:191 - /127.0.0.1:63749
+2020-10-06 22:40:53.114 [main] INFO  network.Server:190 - commands.HelpCommand@5af3afd9
+2020-10-06 22:40:53.115 [main] INFO  network.Server:191 - /127.0.0.1:63749
+2020-10-06 22:40:58.806 [main] INFO  network.Server:179 - User disconnected Дмитрий : /127.0.0.1:63749
+2020-10-06 22:42:33.049 [main] INFO  network.Server:95 - Server started. Listening port 5454
+2020-10-06 22:42:33.052 [main] INFO  network.Server:105 - Ready to receive...
+2020-10-06 22:42:59.268 [main] INFO  network.Server:171 - User connected Дмит �трий : /127.0.0.1:64468
+2020-10-06 22:44:27.272 [main] INFO  network.Server:95 - Server started. Listening port 1234
+2020-10-06 22:44:27.274 [main] INFO  network.Server:105 - Ready to receive...
+2020-10-06 22:45:00.851 [main] ERROR network.Client:213 - Receive timed out
+2020-10-06 22:45:53.623 [main] INFO  network.Server:171 - User connected �Дмитрий : /127.0.0.1:65243
+2020-10-06 22:45:57.972 [main] ERROR network.Client:156 - Command not found
+2020-10-06 22:46:01.722 [main] INFO  network.Server:190 - commands.HelpCommand@5e0826e7
+2020-10-06 22:46:01.722 [main] INFO  network.Server:191 - /127.0.0.1:65243
+2020-10-06 22:46:07.837 [main] INFO  network.Server:190 - commands.ShowCommand@7c729a55
+2020-10-06 22:46:07.838 [main] INFO  network.Server:191 - /127.0.0.1:65243
+2020-10-06 22:46:17.887 [main] INFO  network.Server:179 - User disconnected �Дмитрий : /127.0.0.1:65243
+2020-10-07 20:01:16.488 [main] INFO  network.Server:95 - Server started. Listening port 5454
+2020-10-07 20:01:16.499 [main] INFO  network.Server:105 - Ready to receive...
+2020-10-07 20:02:28.533 [main] INFO  network.Server:171 - User connected Дм�итрий: /127.0.0.1:45986
+2020-10-07 20:02:33.837 [main] INFO  network.Server:171 - User connected дмитрий : /127.0.0.1:45934
+2020-10-07 20:02:42.054 [main] ERROR network.Client:156 - Command not found
+2020-10-07 20:02:48.131 [main] INFO  network.Server:190 - commands.HelpCommand@32eff876
+2020-10-07 20:02:48.132 [main] INFO  network.Server:191 - /127.0.0.1:45986
+2020-10-07 20:02:53.714 [main] INFO  network.Server:190 - commands.HelpCommand@158da8e
+2020-10-07 20:02:53.714 [main] INFO  network.Server:191 - /127.0.0.1:45934
+2020-10-07 20:03:02.090 [main] INFO  network.Server:190 - commands.ShowCommand@323b36e0
+2020-10-07 20:03:02.091 [main] INFO  network.Server:191 - /127.0.0.1:45934
+2020-10-07 20:03:41.404 [main] INFO  network.Server:171 - User connected Дмитрий: /127.0.0.1:46306
+2020-10-07 20:03:51.456 [main] ERROR network.Client:156 - Command not found
+2020-10-07 20:05:59.160 [main] INFO  network.Server:171 - User connected Дмитрий : /127.0.0.1:46934
+2020-10-07 20:06:03.739 [main] ERROR network.Client:156 - Command not found
+2020-10-07 20:09:17.708 [main] INFO  network.Server:171 - User connected Дмит�рий : /127.0.0.1:47744
+2020-10-07 20:09:22.245 [main] ERROR network.Client:156 - Command not found
+2020-10-11 14:16:06.143 [main] INFO  network.Server:95 - Server started. Listening port 5454
+2020-10-11 14:16:06.184 [main] INFO  network.Server:105 - Ready to receive...
+2020-10-11 14:16:27.411 [main] INFO  network.Server:171 - User connected Дмитрий: /127.0.0.1:61533
+2020-10-11 14:16:37.919 [main] INFO  network.Server:190 - commands.HelpCommand@517cd4b
+2020-10-11 14:16:37.919 [main] INFO  network.Server:191 - /127.0.0.1:61533
+2020-10-11 14:17:00.528 [main] INFO  network.Server:179 - User disconnected Дмитрий: /127.0.0.1:61533
+2020-10-12 00:01:48.780 [main] INFO  network.Server:95 - Server started. Listening port 5454
+2020-10-12 00:01:48.821 [main] INFO  network.Server:105 - Ready to receive...
+2020-10-12 00:02:03.238 [main] INFO  network.Server:171 - User connected Дмитрий : /127.0.0.1:64307
+2020-10-12 00:02:06.602 [main] INFO  network.Server:190 - commands.HelpCommand@517cd4b
+2020-10-12 00:02:06.602 [main] INFO  network.Server:191 - /127.0.0.1:64307
+2020-10-12 00:02:09.182 [main] INFO  network.Server:190 - commands.ShowCommand@12028586
+2020-10-12 00:02:09.182 [main] INFO  network.Server:191 - /127.0.0.1:64307
+2020-10-12 00:03:13.597 [main] INFO  network.Server:190 - commands.AddCommand@1dd02175
+2020-10-12 00:03:13.598 [main] INFO  network.Server:191 - /127.0.0.1:64307
+2020-10-12 00:03:17.555 [main] INFO  network.Server:190 - commands.ShowCommand@3ffcd140
+2020-10-12 00:03:17.555 [main] INFO  network.Server:191 - /127.0.0.1:64307
+2020-10-12 00:03:29.383 [main] INFO  network.Server:190 - commands.HelpCommand@120d6fe6
+2020-10-12 00:03:29.384 [main] INFO  network.Server:191 - /127.0.0.1:64307
+2020-10-12 00:03:41.952 [main] INFO  network.Server:190 - commands.RemoveIdCommand@25359ed8
+2020-10-12 00:03:41.953 [main] INFO  network.Server:191 - /127.0.0.1:64307
+2020-10-12 00:03:46.828 [main] INFO  network.Server:190 - commands.ShowCommand@80ec1f8
+2020-10-12 00:03:46.829 [main] INFO  network.Server:191 - /127.0.0.1:64307
